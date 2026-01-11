@@ -1,0 +1,9 @@
+
+{
+  "name": "求职小诸葛 (Career Strategist)",
+  "description": "An all-in-one AI-powered interview preparation suite featuring position research, real-time virtual interviewing, and deep performance analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
